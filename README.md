@@ -49,7 +49,7 @@ Python 版本：3.10.10
 
 使用 conda:
 ```powershell
-git clone https://github.com/Syan-Lin/CyberWaifu
+git clone https://github.com/ReAoid/CyberWaifu.git
 cd CyberWaifu
 conda create --name CyberWaifu python=3.10.10
 conda activate CyberWaifu
